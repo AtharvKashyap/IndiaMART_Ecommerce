@@ -17,7 +17,7 @@ const LatestCollection = () => {
         <div className='text-center py-8 text-3xl'>
             <Title text1={'RECENTLY'} text2={'ADDED'} />
             <p className='w-3/5 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-                Kaka
+            Discover the freshest additions to our store—handpicked treats, snacks, and essentials that have just landed. From indulgent sweets to savory bites, there’s always something new to explore.
             </p>
         </div>
 
