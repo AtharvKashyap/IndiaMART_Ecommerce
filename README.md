@@ -1,2 +1,2 @@
-# IndiaMART_Ecommerce
-An E-commerce Website Created for the IndiaMART store in Dakar, Senegal
+# IndianMART_Ecommerce
+An E-commerce Website Created for the IndianMART store in Dakar, Senegal
